@@ -7,5 +7,27 @@ The codes I used are that I used the same codes to make the buttons work for thr
 
 I used GitHub to put my game app there and it will be able to show details of the game app and how did I create this I. firstly I pushed and commit my app to GitHub by android studio. Make sure that your emulator is running for app to work. Then it will display all the file of the app that I created. I also added a read me file where it will display this essay regarding the app creation purpose and the utilization of GitHub. I made my file in GitHub public for people to see details of the app.There is a link of the video that I made that will show the example of the game and  explain how I created the game .
 Pictures of The apps and Codes
-![image](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/2b0035f0-079e-4812-b4ca-df146d25000a)
+![image](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/2b0035f0-079e-4812-b4ca-df146d25000a
+![IMG_20240506_075625](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/be8530c3-c63a-4028-a418-b405204ecdd2)
+![image](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/34cf0e48-9f47-47fe-b05c-77df04a1c2f9)
+![image](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/40c5ffe9-9540-45ab-9064-2d514cdbd00d)
+![Screenshot_20240506_112522_com huawei himovie overseas](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/46ef30af-8069-47ee-a5f3-613edc5aa09b)
+![image](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/33ce3145-65e0-4bd5-8a8c-34a7e992cd09)
+![Screenshot_20240506_112543_com huawei himovie overseas](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/603641b1-0a20-4238-9d35-78c9649dc043)
+![Screenshot_20240506_112543_com huawei himovie overseas](https://github.com/SiyethembaLushozi21/Assigment2/assets/165658340/27b0ce78-86e1-4da0-a2e6-f01b25e92ed2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
